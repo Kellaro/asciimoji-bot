@@ -1,0 +1,24 @@
+{
+  "name": "asciimoji-bot",
+  "version": "1.0.0",
+  "description": "Telegram Bot with ASCII Emojis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Kellaro/asciimoji-bot.git"
+  },
+  "keywords": [
+    "bot",
+    "ascii",
+    "emoji"
+  ],
+  "author": "Kellaro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kellaro/asciimoji-bot/issues"
+  },
+  "homepage": "https://github.com/Kellaro/asciimoji-bot#readme"
+}
